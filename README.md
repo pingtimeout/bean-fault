@@ -16,3 +16,7 @@ new BeanFault().segfault();
 ## Licence
 This code is licenced under the GNU General Public Licence Version 3.  See the `LICENSE` file.
 
+## Special thanks
+
+Thanks to Chris Engelbert ([noctarius2k on Twitter](https://twitter.com/noctarius2k)) for the idea and for the many (too many?) Unsafe discussions.
+
